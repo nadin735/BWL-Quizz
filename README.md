@@ -4,7 +4,6 @@ A simple quiz game made with Python.
 
 The program asks questions about basic business and economics topics and calculates the final score at the end.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ The program asks questions about basic business and economics topics and calcula
 * multiple questions
 * simple Python structure
 
----
 
 ## Getting Started
 
@@ -41,9 +39,7 @@ What does ROI stand for?
 > return on investment
 
 Correct!
-```
 
----
 
 ## About
 
