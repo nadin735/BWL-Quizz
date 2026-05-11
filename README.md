@@ -1,52 +1,40 @@
 # BWL Quiz
 
-A simple quiz game made with Python.
+A simple quiz game built with Python.
 
-The program asks questions about basic business and economics topics and calculates the final score at the end.
-
+The program asks questions about basic business and economics topics and keeps track of the player's score. At the end of the quiz, the final result is displayed as both points and percentage.
 
 ## Features
 
-* terminal based quiz
-* score system
+* multiple quiz questions
+* score tracking
 * percentage calculation
-* multiple questions
-* simple Python structure
+* terminal based gameplay
 
+## Requirements
 
-## Getting Started
+* Python 3
 
-Make sure Python 3 is installed.
+## Run the Project
 
-Run the file with:
-
-```bash
+```bash id="u7x0zs"
 python bwl_quiz.py
 ```
 
----
+## Purpose
 
-## Example
-
-```text
-Welcome to my BWL Quiz
-
-Do you want to play? yes
-
-Okay! Let's play :)
-
-What does ROI stand for?
-> return on investment
-
-Correct!
-
-
-## About
-
-This project was created to practice basic Python concepts like:
+This project was created to practice basic Python concepts such as:
 
 * variables
 * user input
 * conditions
 * if statements
 * simple program flow
+
+## Future Improvements
+
+* add more questions
+* randomize questions
+* difficulty levels
+* timer system
+
