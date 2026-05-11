@@ -1,8 +1,7 @@
-# 📚 BWL Quiz
-
+BWL Quiz:
 A simple Python quiz project about business and economics basics (BWL).
 
-## 🚀 Features
+Features:
 
 * Multiple BWL questions
 * Score system
@@ -10,12 +9,9 @@ A simple Python quiz project about business and economics basics (BWL).
 * User input handling
 * Beginner-friendly Python code
 
-## 🛠️ Technologies
+ Technologies:Python 3
 
-* Python 3
-
-## ▶️ How to Run
-
+How to Run
 1. Install Python
 2. Download the file
 3. Open terminal / cmd
@@ -25,7 +21,7 @@ A simple Python quiz project about business and economics basics (BWL).
 python bwl_quiz.py
 ```
 
-## 📖 What I Learned
+What I Learned:
 
 This project helped me practice:
 
@@ -36,7 +32,7 @@ This project helped me practice:
 * Basic Python logic
 * Building terminal applications
 
-## 🎯 Future Improvements
+Future Improvements:
 
 * Add more questions
 * Multiple difficulty levels
